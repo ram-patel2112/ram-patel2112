@@ -60,7 +60,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ram-patel2112&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-patel2112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ram-patel2112&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
