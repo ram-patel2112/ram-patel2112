@@ -58,8 +58,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ram-patel2112&show_icons=true&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ram-patel2112&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-patel2112&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
