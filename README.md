@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">Python Developer | Computer Vision Enthusiast | Full Stack Learner</h3>
-
----
-
 ## 💫 About Me
 
 💻 Passionate developer focused on building real-world, practical applications using Python and modern web technologies.
