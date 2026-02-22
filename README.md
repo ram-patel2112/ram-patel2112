@@ -25,16 +25,6 @@
 
 ---
 
-## 🧠 Current Projects
-
-🔐 AI-Based Login System (Face Recognition + Morse Code)
-
-💬 Real-Time 1-to-1 Chat Application (React + Node + MongoDB + Socket.IO)
-
-📊 Data Analysis & Visualization System
-
----
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -60,11 +50,9 @@
 
 ### 🛠 Tools & Platforms
 - Git & GitHub
-- Postman
-- Firebase
-- Vercel
+- Canva
 - VS Code
-- Figma
+- MS Office
 
 ---
 
